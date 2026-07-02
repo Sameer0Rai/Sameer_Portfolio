@@ -10,7 +10,7 @@ This portfolio showcases my projects, technical skills, achievements, and experi
 
 🔗 **Portfolio Website**
 
-https://sameer0rai.github.io/portfolio/
+https://sameer0rai.github.io/Sameer_Portfolio/
 
 ---
 
